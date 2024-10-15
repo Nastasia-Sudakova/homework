@@ -1,0 +1,33 @@
+body{
+    background: rgb(255, 251, 252);
+}
+
+.mytext{
+    color: cadetblue;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(0, 26, 255);
+}
+
+a:hover{
+    color: rgb(92, 108, 251);
+}
+
+nav{
+    background: #eee;
+    border: 1px solid rgb(71, 86, 121);
+}
+
+.pic1{
+    width: 25%;
+    margin: 2%; 
+    border-radius: 10px;
+}
+
+.pic2{
+    width: 25%;
+    margin: 2%; 
+    border-radius: 10px;
+}
